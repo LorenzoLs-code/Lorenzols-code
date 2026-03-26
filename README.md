@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋, Im LorenzoL
+
+### a **hobby** (and frendly) developer
+
+## Programming languages ​​I know
+
+### 🐍 Python
+
+Front- & Backend
+
+
 
 <!--
 **LorenzoLs-code/Lorenzols-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
