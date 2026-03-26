@@ -1,6 +1,6 @@
 # Hi there 👋, Im LorenzoL
 
-### a **hobby** (and frendly) developer
+### Im a **hobby** (and frendly) developer
 
 ## Programming languages ​​I know
 
