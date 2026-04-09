@@ -2,11 +2,15 @@
 
 ### Im a **hobby** (and frendly) developer
 
-## Programming languages ​​I know
+## Programming languages ​​I know and learn
 
 ### 🐍 Python
 
 Front- & Backend
+
+### C++
+
+- [] Basics
 
 
 
