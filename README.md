@@ -10,7 +10,7 @@ Front- & Backend
 
 ### C++
 
-- [] Basics
+- [ ] Basics
 
 
 
