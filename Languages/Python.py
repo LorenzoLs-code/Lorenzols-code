@@ -1,2 +1,2 @@
 print("Hello World") #
-print("I" + "m" "" + "Lor" + "e" + "n" + "z" + "o" + "l")
+print("I" + "m" "" + "Lor" + "e" + "n" + "zol")
