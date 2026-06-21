@@ -1,5 +1,5 @@
 # Hi there 👋, Im LorenzoL
-Im a **hobby** (and frendly) developer
+Im a **hobby** (and frendly) backend developer
 
 ## My current project
 [LittleStar](https://github.com/LorenzoLs-code/LittleStar)
@@ -7,14 +7,13 @@ Im a **hobby** (and frendly) developer
 
 ## Programming languages ​​I know and learn
 ### 🐍 Python
-
 Front- & Backend
 
 ### C++
+learning (paused)
 
+### Lua
 learning
-
-
 
 <!--
 **LorenzoLs-code/Lorenzols-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
