@@ -1,10 +1,6 @@
 # Hi there 👋, Im LorenzoL
 Im a **hobby** (and frendly) backend developer
 
-## My current project
-[LittleStar](https://github.com/LorenzoLs-code/LittleStar)
-
-
 ## Programming languages ​​I know and learn
 ### 🐍 Python
 Front- & Backend
